@@ -29,6 +29,6 @@ The time between writing and shipping software has shrunk drastically over the d
 | 2011 | **CircleCI**      | Cloud CI/CD with fast feedback and Docker-native builds. |
 | 2015 | **GitLab CI/CD**  | Built-in CI/CD pipelines in GitLab, configured via YAML. |
 | 2016 | **AWS CodeBuild** | Managed CI inside AWS ecosystem. |
-| 2018 | **GitHub Actions**| GitHub-native automation with deep ecosystem and community support. |
+| 2018 | **GitHub Actions**| GitHub-native automation with deep ecosystem and community support. | 
 
 ![](./readme-assets/ci-timeline.png)
